@@ -24,3 +24,4 @@ hs_err_pid*
 
 #a bunch of files of medition
 *.txt
+/.metadata/
