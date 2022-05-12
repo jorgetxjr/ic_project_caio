@@ -111,6 +111,7 @@ public class MedicoesUmDia {
 		
 		return limite;
 	}
+	public void soparagerarumnovocommit() {}
 	
 	@Override
 	public String toString() //OK
